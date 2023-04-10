@@ -19,4 +19,4 @@ require  latest verion of R and R studio.
 
 ## License
 
-Copyright © 2023, Manju Swaroop V
+Copyright © 2023, Manju Swaroop V and Sukrutha G
