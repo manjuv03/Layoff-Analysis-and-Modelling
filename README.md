@@ -14,7 +14,7 @@ Open with R studio
 ### Prerequisites
 
 ```
-require  latest verion of R and R studio.
+require  latest version of R and R studio.
 ```
 
 ## License
